@@ -1,18 +1,18 @@
 # Oportunidades
 
-## DEV Backend PHP
+## Programador PHP
 
-CLT, em Curitiba/PR.
+A vaga é CLT, em local próximo ao Park Shopping Barigui, em Curitiba/PR,.
 
-Perfil desejado:
+O perfil desejado para esta vaga é o seguinte:
 
-* Familiaridade com repositórios de dados Relacionais e Não relacionais;
-* Conhecimento sobre padrões de projeto e a infraestrutura da web (aplicações, protocolo, servidores web);
-* Fluência em Javascript e SQL;
-* Experiência no uso de PHP e frameworks relevantes da linguagem;
-* Familiaridade com ambientes Unix Like.
-* Interesse em aprender e buscar novas soluções e metodologias.
+* Domínio do desenvolvimento de aplicações com PHP.
+* Familiaridade com banco de dados;
+* Conhecimento basico da infraestrutura da web (aplicações, protocolo, servidores web);
+* Capacidade de desenvolvimento básico com javascript;
+* Experiência no uso de frameworks relevantes da linguagem;
 
+Interessados devem escrever para [cto@novovarejo.com](mailto:cto@novovarejo.com) solicitando mais informações, ok ?
 
 ---
 
