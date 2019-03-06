@@ -1,3 +1,8 @@
+---
+title: Oportunidades
+layout: default
+---
+
 # Oportunidades
 
 ## Programador PHP
