@@ -3,12 +3,13 @@ title: Oportunidades
 layout: default
 ---
 
-# Oportunidades
+## Vagas
 
-## Programador PHP
+### Desenvolvedor PHP
 
 A vaga é CLT, em local próximo ao Park Shopping Barigui, em Curitiba/PR.
 O perfil desejado para esta vaga é o seguinte:
+
 * Domínio do desenvolvimento de aplicações com PHP.
 * Familiaridade com banco de dados;
 * Conhecimento basico da infraestrutura da web (aplicações, protocolo, servidores web);
@@ -19,11 +20,12 @@ Interessados devem escrever para [cto@novovarejo.com](mailto:cto@novovarejo.com)
 
 ---
 
-## Frontend
+## Vagas fechadas
+
+### Desenvolvedor Frontend
 
 A vaga é CLT, em local próximo ao Park Shopping Barigui, em Curitiba/PR.
 O perfil desejado para esta vaga é o seguinte:
+
 * Domínio do desenvolvimento interfaces web com HTML, CSS e javascript.
 * Experiência no uso de frameworks relevantes ao desenvolvimento;
-
-Interessados devem escrever para [cto@novovarejo.com](mailto:cto@novovarejo.com) com o Subject "Vaga Frontend", anexando CV, ok ?
