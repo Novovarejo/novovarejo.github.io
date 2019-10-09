@@ -1,4 +1,4 @@
-# [Curitiba, PR] Desenvolvedor(a) PHP Júnior/Pleno na [Novovarejo.com]
+# [Curitiba, PR] Developer PHP Júnior/Pleno na [Novovarejo.com]
 
 ## A Empresa
 A Novovarejo.com é uma empresa especializada no desenvolvimento de
@@ -62,3 +62,4 @@ Interessado? Envie seu currículo para [cto@novovarejo.com](mailto:cto@novovarej
 * CLT
 * Júnior
 * Pleno
+* PHP
