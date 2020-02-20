@@ -62,24 +62,25 @@ consumidores, para quem dedicaremos todo o nosso esforço.
 Desta forma, acreditamos que promovemos o consumo de forma inteligente, e
 consequentemente um capitalismo também consciente.
 
-
 ## Como se candidatar
 
 Envie seu currículo para [cto@novovarejo.com](mailto:cto@novovarejo.com), com o título desta vaga no assunto do e-mail, junto com sua pretensão salarial.
-
-## Labels
-
-* Alocado
-* CLT
-* Júnior
-* Pleno
 
 ### Alocação:
 - Presencial
 
 ### Contratação:
-- CLT
+- CLT ou PJ
 
 ### Experiência
 - Júnior
 - Pleno
+
+## Labels
+
+- 🏢 Flexível
+- 🏢 Presencial
+- 👦 Júnior
+- 👨 Pleno
+- ⚖️ CLT
+- ⚖️ PJ
