@@ -43,10 +43,6 @@ Buscamos pessoas que se dedicaram e persistiram em aprender sobre o desenvolvime
 **Diferenciais:**
 - Contribuições com projetos opensource
 
-## Contratação
-
-CLT, 40 horas semanais
-
 ## Nossa empresa
 
 A Novovarejo.com é uma empresa especializada no desenvolvimento de
