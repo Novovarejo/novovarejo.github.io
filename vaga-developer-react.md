@@ -80,3 +80,12 @@ Envie seu currículo para [cto@novovarejo.com](mailto:cto@novovarejo.com), com o
 ### Experiência
 - Júnior
 - Pleno
+
+## Labels
+
+- 🏢 Flexível
+- 🏢 Presencial
+- 👦 Júnior
+- 👨 Pleno
+- ⚖️ CLT
+- ⚖️ PJ
