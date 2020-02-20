@@ -64,18 +64,11 @@ consequentemente um capitalismo também consciente.
 
 Envie seu currículo para [cto@novovarejo.com](mailto:cto@novovarejo.com), com o título desta vaga no assunto do e-mail, junto com sua pretensão salarial.
 
-## Labels
-
-* Alocado
-* CLT
-* Júnior
-* Pleno
-
 ### Alocação:
 - Presencial
 
 ### Contratação:
-- CLT
+- CLT ou PJ
 
 ### Experiência
 - Júnior

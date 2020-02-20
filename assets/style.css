@@ -38,7 +38,6 @@ body {
   background-color: #DDD;
   border-radius: 10px;
   display: block;
-  text-align: center;
   padding-top: 40px;
   color: #555;
   box-shadow: 10px 10px 0px #EEE;
@@ -91,7 +90,6 @@ svg rect:nth-of-type(6) {
 h1 {
   font-size: 1.5rem;
   margin; 0 auto;
-  text-align: center;
   width: auto;
   word-break: break-all;
   padding: 15px;
