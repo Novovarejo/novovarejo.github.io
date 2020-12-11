@@ -1,13 +1,24 @@
-# [Curitiba, PR] Developer PHP Júnior/Pleno na [Novovarejo.com]
+# [Curitiba, PR] Developer Backend [@Novovarejo.com]
 
 ## Descrição da vaga
 
-Desenvolvimento de Webapps usando framework Symfony 5, Docker, Cloud computing, React e Micro Serviços.
+### Sobre a empresa
+
+A NOVOVAREJO.COM é uma RETAILTECH focada no desenvolvimento de Plataformas e Estratégias para o VAREJO DIGITAL, no segmento AUTOMOTIVO. Lançamos o MOB1.ONE (www.mob1.one) com objetivo de ser referência no setor, tendo como produtos iniciais as plataformas HUB.MOB1.PARTS e COMMERCE.MOB1.PARTS.
+
+Para entregar alto valor para nossos clientes e seus consumidores, pautamos nossos projetos em conceitos claros de desenvolvimento de produtos, com base em 04 pilares: Especialização, Credibilidade, Confiança e Conexão.
+
+A composição do nosso TIME possui múltiplos perfis que se complementam e a neurodiversidade é bem vinda. Buscamos pessoas com foco, dedicação e persistência no aprendizado constante para o desenvolvimento Web, aplicando as mais modernas e melhores práticas na construção de aplicativos. 
+
+Também estamos abertos aos pioneiros do desenvolvimento que querem se reinventar e desejam trabalhar em projetos modernos. Se você é dedicado e ama programar, sugerimos fortemente falar conosco.
+
+### Sobre a oportunidade
+
+Desenvolvimento de Apps WEB e CLI
 
 ## Local
 
-No bairro Campina do Siqueira, próximo ao Park Shopping Barigui, Curitiba/PR.
-
+Remoto de todo o Brasil ou Curitiba - PR
 
 ## Benefícios
 
@@ -15,58 +26,19 @@ No bairro Campina do Siqueira, próximo ao Park Shopping Barigui, Curitiba/PR.
 * VT;
 * VR ou VA;
 
-#### Diferenciais
-
-Entendemos que a composição de um time é feita com múltiplos perfis que se complementam e a neurodiversidade é bem vinda.
-Buscamos pessoas que se dedicaram e persistiram em aprender sobre o desenvolvimento Web, melhores práticas e a gama gigantesca de conhecimentos necessários para um desenvolvimento moderno de aplicativos. Também estamos abertos aos pioneiros do desenvolvimento que querem se reinventar e desejam trabalhar em projetos modernos. Se você é dedicado e ama programar, possivelmente deva falar conosco.
-
 ## Requisitos
 
-**Obrigatórios:**
-- PHP;
-- Banco de dados Mysql/MariaDb
-- JavaScript;
-- Git;
-- HTML
-- CSS
+- Conhecimento sólido em pelo menos uma das seguintes linguagens: PHP, Python, .NET Core;
+- Conhecimento sólido de programação orientada a objeto;
+- Lógica de programação aguçada.
 
-**Desejáveis:**
-- NodeJS;
-- Git Flow;
-- Micro Serviços;
-- Threads;
-- Web Service arquitetura REST;
-- React;
-- Sass
-- Bootstrap
+## Contratação
 
-**Diferenciais:**
-- Contribuições com projetos opensource
-
-## Nossa empresa
-
-A Novovarejo.com é uma empresa especializada no desenvolvimento de
-tecnologias e estudo de dados e comportamento para o varejo, que facilitem e
-ajudem no relacionamento entre as marcas (produtos e serviços) e seus
-consumidores identificando e promovendo soluções para o segmento
-de Mobilidade.
-
-Nosso foco principal é aliar tecnologia à experiência de compra, promovendo a
-conveniência e certeza sobre a tomada de decisão de compra por parte dos
-consumidores, para quem dedicaremos todo o nosso esforço.
-
-Desta forma, acreditamos que promovemos o consumo de forma inteligente, e
-consequentemente um capitalismo também consciente.
+CLT ou PJ
 
 ## Como se candidatar
 
 Envie seu currículo para [cto@novovarejo.com](mailto:cto@novovarejo.com), com o título desta vaga no assunto do e-mail, junto com sua pretensão salarial.
-
-### Alocação:
-- Presencial
-
-### Contratação:
-- CLT ou PJ
 
 ### Experiência
 - Júnior

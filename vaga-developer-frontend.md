@@ -2,17 +2,17 @@
 
 ## Descrição da vaga
 
-A Novovarejo.com é uma empresa especializada no desenvolvimento de
-tecnologias e estudo de dados e comportamento para o varejo, que facilitem e
-ajudem no relacionamento entre as marcas (produtos e serviços) e seus
-consumidores identificando e promovendo soluções para o segmento
-de Mobilidade. Nosso foco principal é aliar tecnologia à experiência de compra, promovendo a
-conveniência e certeza sobre a tomada de decisão de compra por parte dos
-consumidores, para quem dedicaremos todo o nosso esforço.
-Desta forma, acreditamos que promovemos o consumo de forma inteligente, e
-consequentemente um capitalismo também consciente.
-Entendemos que a composição de um time é feita com múltiplos perfis que se complementam e a neurodiversidade é bem vinda.
-Buscamos pessoas que se dedicaram e persistiram em aprender sobre o desenvolvimento Web, melhores práticas e a gama gigantesca de conhecimentos necessários para um desenvolvimento moderno de aplicativos. Também estamos abertos aos pioneiros do desenvolvimento que querem se reinventar e desejam trabalhar em projetos modernos. Se você é dedicado e ama programar, possivelmente deva falar conosco.
+### Sobre a empresa
+
+A NOVOVAREJO.COM é uma RETAILTECH focada no desenvolvimento de Plataformas e Estratégias para o VAREJO DIGITAL, no segmento AUTOMOTIVO. Lançamos o MOB1.ONE (www.mob1.one) com objetivo de ser referência no setor, tendo como produtos iniciais as plataformas HUB.MOB1.PARTS e COMMERCE.MOB1.PARTS.
+
+Para entregar alto valor para nossos clientes e seus consumidores, pautamos nossos projetos em conceitos claros de desenvolvimento de produtos, com base em 04 pilares: Especialização, Credibilidade, Confiança e Conexão.
+
+A composição do nosso TIME possui múltiplos perfis que se complementam e a neurodiversidade é bem vinda. Buscamos pessoas com foco, dedicação e persistência no aprendizado constante para o desenvolvimento Web, aplicando as mais modernas e melhores práticas na construção de aplicativos. 
+
+Também estamos abertos aos pioneiros do desenvolvimento que querem se reinventar e desejam trabalhar em projetos modernos. Se você é dedicado e ama programar, sugerimos fortemente falar conosco.
+
+### Sobre a oportunidade
 
 Desenvolvimento de Apps usando React + GraphQL
 
@@ -29,9 +29,8 @@ Remoto de todo o Brasil ou Curitiba - PR
 ## Requisitos
 
 - Conhecimento sólido em JavaScript + CSS
-- Entendimento das melhoras práticas de UX
-- Conhecimento sólido em React
-- Experiência com GraphQL e Typescript.
+- Entendimento das melhores práticas de UX
+- Experiência com React
 - Lógica de programação aguçada
 
 ## Contratação
