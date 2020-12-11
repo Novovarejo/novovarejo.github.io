@@ -5,5 +5,5 @@ layout: default
 
 ## Estamos contratando!
 
-* [Desenvolvedor PHP](vaga-developer-php)
-* [Desenvolvedor React](vaga-developer-react)
+* [Desenvolvedor Backend](vaga-developer-backend)
+* [Desenvolvedor Frontend](vaga-developer-frontend)
